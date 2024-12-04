@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 49.99,
+    "image": "https://via.placeholder.com/150?text=Wireless+Headphones",
+    "description": "High-quality wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 699.99,
+    "image": "https://via.placeholder.com/150?text=Smartphone",
+    "description": "Latest model smartphone with 5G connectivity and high-resolution camera."
+  },
+  {
+    "id": 3,
+    "name": "Laptop",
+    "price": 999.99,
+    "image": "https://via.placeholder.com/150?text=Laptop",
+    "description": "Powerful laptop for work, gaming, and everything in between."
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "image": "https://via.placeholder.com/150?text=Smart+Watch",
+    "description": "Smartwatch with health tracking and fitness features."
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 29.99,
+    "image": "https://via.placeholder.com/150?text=Bluetooth+Speaker",
+    "description": "Portable Bluetooth speaker with excellent sound quality."
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "price": 59.99,
+    "image": "https://via.placeholder.com/150?text=Gaming+Mouse",
+    "description": "Ergonomically designed gaming mouse with customizable buttons."
+  }
+]
