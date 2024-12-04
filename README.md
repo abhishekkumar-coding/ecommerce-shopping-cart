@@ -1,8 +1,49 @@
-# React + Vite
+# E-Commerce Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An **E-Commerce Shopping Cart** application built with **React**, **Redux Toolkit**, and **React Router**. The app fetches products from a public API and provides a dynamic shopping experience, including product listing, adding/removing items to/from the cart, and updating item quantities.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+1. **Dynamic Product Listings**:
+   - Fetches product data from [Fake Store API](https://fakestoreapi.com/).
+   - Converts prices to INR using a predefined exchange rate.
+
+2. **Cart Functionality**:
+   - Add, remove, and update product quantities in the cart.
+   - Displays total price and item quantity dynamically.
+
+3. **Routing**:
+   - Home page for product listings.
+   - Cart page for reviewing selected items.
+
+4. **Responsive Design**:
+   - Tailored for desktop and mobile screens using **Tailwind CSS**.
+
+5. **Error Handling**:
+   - Displays loading spinners and error messages during data fetching.
+
+---
+
+## Tech Stack
+
+- **Frontend**: React, Redux Toolkit
+- **Styling**: Tailwind CSS
+- **Routing**: React Router
+- **Data Fetching**: Axios
+- **API**: Fake Store API
+
+---
+
+## Installation & Setup
+
+### Prerequisites
+Make sure you have **Node.js** and **npm** installed.
+
+### Steps
+
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+   cd <repository-name>
